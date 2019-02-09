@@ -9,7 +9,7 @@
     "math"
   ],
   "scripts": {
-    "test": "mocha src/**/*.test.js"
+    "test": "mocha src/**/*.spec.js"
   },
   "author": {
     "name": "Kevin Thomas",

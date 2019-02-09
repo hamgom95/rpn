@@ -1,0 +1,26 @@
+{
+  "name": "@hamgom95/rpn",
+  "version": "2.0.0",
+  "description": "rpn calculator",
+  "main": "src/index.js",
+  "keywords": [
+    "rpn",
+    "calc",
+    "math"
+  ],
+  "scripts": {
+    "test": "mocha src/**/*.test.js"
+  },
+  "author": {
+    "name": "Kevin Thomas",
+    "email": "hamgom95@gmail.com"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "files": [
+    "/src"
+  ],
+  "license": "ISC"
+}
